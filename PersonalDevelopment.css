@@ -1,0 +1,126 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+     width: 1600px; 
+ }
+
+
+header,
+main,
+footer{
+    overflow-x: hidden;
+}
+
+ul {
+    padding-left: 0;
+  }
+
+  li {
+    list-style-type: none;
+  }
+  
+  a {
+    text-decoration: none;
+
+  }
+
+
+  .chapter{
+    margin-left: 35%;
+  }
+
+
+  .underline{
+width: 800px;
+height: 3px;
+background-color: blue;
+margin-left: 25%;
+}
+
+.info{
+    width: 700px;
+    height: 50px; ;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 28%;
+    margin-right: 20%;
+    
+}
+
+
+
+.beginning{
+    position: absolute;
+    top: 20%;
+    left:0;  
+    left: 10%;
+width: 900px;
+height: 400px;
+background-color: rgba(5, 36, 102, 0.616);
+
+}
+
+.beginning_text{
+position: absolute;
+width: 400px;
+height:200px ;
+top: 45%;
+left: 15%;
+font-size: 25px;
+}
+
+.h{
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+.g{
+    position: absolute;
+    top: 35%;
+    left: 33%;  
+}
+
+.r{
+    position: absolute;
+    top: 36%;
+    left: 14%;
+    width: 250px;
+    height:250px;
+  border-radius: 50%;
+  background-color: rgb(168, 180, 180);
+}
+
+.p{
+    position: absolute;
+    top: 6%;
+    left: 114%;
+    width: 280px;
+    height:280px;
+  border-radius: 50%;
+  background-color: rgb(168, 180, 180);
+}
+
+.dxf{
+    position: absolute;
+    top: 1050px;
+    left: 20%;
+}
+
+.o{
+    position: absolute;
+    top: 1050px;
+    left: 30%;
+}
+
+.u{
+    position: absolute;
+    top: 1050px;
+    left: 40%;
+}
+
+.z{
+    position: absolute;
+    top: 1050px;
+    left: 55%;
+}
